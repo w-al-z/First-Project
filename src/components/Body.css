@@ -1,0 +1,155 @@
+/* * {
+  box-sizing: border-box;
+} */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#btn-twitter {
+  padding: 20px 480px;
+  font-weight: 500;
+  border: none;
+  margin: 40px 0px 20px 0px;
+  background-color: #eaecf0;
+}
+#btn-zuri {
+  padding: 20px 485px;
+  font-weight: 500;
+  border: none;
+  margin-bottom: 20px;
+  background-color: #eaecf0;
+}
+#books {
+  padding: 20px 480px;
+  font-weight: 500;
+  border: none;
+  margin-bottom: 20px;
+  background-color: #eaecf0;
+}
+#books-python {
+  padding: 20px 470px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  border: none;
+  background-color: #eaecf0;
+}
+#pitch {
+  padding: 20px 420px;
+  font-weight: 500;
+  border: none;
+  margin-bottom: 20px;
+  background-color: #eaecf0;
+}
+#books-design {
+  padding: 20px 470px;
+  font-weight: 500;
+  border: none;
+  margin-bottom: 20px;
+  background-color: #eaecf0;
+}
+.twitters {
+  width: 100%;
+}
+.slack {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  gap: 20px;
+}
+@media (max-width: 1070px) {
+  #btn-zuri {
+    padding: 20px 400px;
+  }
+  #btn-twitter {
+    padding: 20px 395px;
+  }
+  #books {
+    padding: 20px 397px;
+  }
+  #books-python {
+    padding: 20px 390px;
+  }
+  #pitch {
+    padding: 20px 340px;
+  }
+  #books-design {
+    padding: 20px 390px;
+  }
+}
+
+@media (max-width: 910px) {
+  #btn-zuri {
+    padding: 20px 298px;
+  }
+  #btn-twitter {
+    padding: 20px 293px;
+  }
+  #books {
+    padding: 20px 297px;
+  }
+  #books-python {
+    padding: 20px 290px;
+  }
+  #pitch {
+    padding: 20px 240px;
+  }
+  #books-design {
+    padding: 20px 290px;
+  }
+}
+@media (max-width: 710px) {
+  #btn-zuri {
+    padding: 20px 198px;
+  }
+  #btn-twitter {
+    padding: 20px 193px;
+  }
+  #books {
+    padding: 20px 197px;
+  }
+  #books-python {
+    padding: 20px 190px;
+  }
+  #pitch {
+    padding: 20px 140px;
+  }
+  #books-design {
+    padding: 20px 190px;
+  }
+}
+@media (max-width: 412px) {
+  #btn-zuri {
+    padding: 20px 158px;
+  }
+  #btn-twitter {
+    padding: 20px 153px;
+  }
+  #books {
+    padding: 20px 157px;
+  }
+  #books-python {
+    padding: 20px 150px;
+  }
+  #pitch {
+    padding: 20px 150px;
+  }
+  #books-design {
+    padding: 20px 150px;
+  }
+}
+@media (max-width: 970px) {
+  .slack {
+    display: none;
+  }
+  #books-design {
+    margin-bottom: 50px;
+  }
+}

@@ -1,0 +1,28 @@
+/* * {
+  box-sizing: border-box;
+} */
+body {
+  margin: 0;
+  padding: 0;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#profile_img {
+  width: 70px;
+  height: 70px;
+  margin: 64px 0px 0px 0px;
+}
+#twitter {
+  text-decoration: none;
+  color: #101828;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+}
+.twit {
+  line-height: 40px;
+}
