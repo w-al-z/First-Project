@@ -16,6 +16,7 @@ body {
   padding: 20px 480px;
   font-weight: 500;
   border: none;
+  border-radius: 8px;
   margin: 40px 0px 20px 0px;
   background-color: #eaecf0;
 }
@@ -23,6 +24,7 @@ body {
   padding: 20px 485px;
   font-weight: 500;
   border: none;
+  border-radius: 8px;
   margin-bottom: 20px;
   background-color: #eaecf0;
 }
@@ -32,18 +34,21 @@ body {
   border: none;
   margin-bottom: 20px;
   background-color: #eaecf0;
+  border-radius: 8px;
 }
 #books-python {
   padding: 20px 470px;
   font-weight: 500;
   margin-bottom: 20px;
   border: none;
+  border-radius: 8px;
   background-color: #eaecf0;
 }
 #pitch {
   padding: 20px 420px;
   font-weight: 500;
   border: none;
+  border-radius: 8px;
   margin-bottom: 20px;
   background-color: #eaecf0;
 }
@@ -51,6 +56,7 @@ body {
   padding: 20px 470px;
   font-weight: 500;
   border: none;
+  border-radius: 8px;
   margin-bottom: 20px;
   background-color: #eaecf0;
 }

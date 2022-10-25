@@ -6,7 +6,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 80px 180px;
+  padding: 80px 100px;
 }
 #pic {
   /* width: 50px; */
