@@ -39,11 +39,15 @@ const Body = () => {
 
         <div className="slack">
           <div>
-            <img src={image} />
+            <a href="https://app.slack.com/client/T042F7V19Q8/C041V6WKAUS">
+              <img src={image} />
+            </a>
           </div>
 
           <div>
-            <img src={Image} />
+            <a href="https://github.com/w-al-z/First-Project">
+              <img src={Image} />
+            </a>
           </div>
         </div>
       </div>
