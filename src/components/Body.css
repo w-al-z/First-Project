@@ -154,7 +154,7 @@ body {
 }
 @media (max-width: 970px) {
   .slack {
-    display: none;
+    margin-bottom: 150px;
   }
   #books-design {
     margin-bottom: 50px;

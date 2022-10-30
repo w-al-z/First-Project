@@ -12,7 +12,7 @@ const Body = () => {
           </a>
         </div>
         <div>
-          <a href="“https://training.zuri.team/”">
+          <a href="https://training.zuri.team/">
             <button id="btn-zuri">Zuri Team</button>
           </a>
         </div>

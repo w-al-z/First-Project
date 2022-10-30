@@ -6,10 +6,12 @@ body {
   padding: 0;
 }
 .image {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
+  width: 100vw;
 }
 #profile_img {
   width: 70px;
@@ -25,4 +27,30 @@ body {
 }
 .twit {
   line-height: 40px;
+}
+.profile_img2 {
+  position: absolute;
+  top: 20%;
+  right: 30%;
+}
+.profile_img3 {
+  position: absolute;
+  top: 20%;
+  right: 30%;
+}
+@media (max-width: 1070px) {
+  .profile_img3 {
+    display: none;
+  }
+}
+@media (max-width: 970px) {
+  .profile_img2 {
+    display: none;
+  }
+  .profile_img3 {
+    display: flex;
+    position: absolute;
+    top: 20%;
+    right: 10%;
+  }
 }
