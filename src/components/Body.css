@@ -20,6 +20,9 @@ body {
   margin: 40px 0px 20px 0px;
   background-color: #eaecf0;
 }
+#btn-twitter:hover {
+  background-color: #d0d5dd;
+}
 #btn-zuri {
   padding: 20px 485px;
   font-weight: 500;
@@ -27,6 +30,9 @@ body {
   border-radius: 8px;
   margin-bottom: 20px;
   background-color: #eaecf0;
+}
+#btn-zuri:hover {
+  background-color: #d0d5dd;
 }
 #books {
   padding: 20px 480px;
@@ -36,6 +42,9 @@ body {
   background-color: #eaecf0;
   border-radius: 8px;
 }
+#books:hover {
+  background-color: #d0d5dd;
+}
 #books-python {
   padding: 20px 470px;
   font-weight: 500;
@@ -43,6 +52,9 @@ body {
   border: none;
   border-radius: 8px;
   background-color: #eaecf0;
+}
+#books-python:hover {
+  background-color: #d0d5dd;
 }
 #pitch {
   padding: 20px 420px;
@@ -52,6 +64,9 @@ body {
   margin-bottom: 20px;
   background-color: #eaecf0;
 }
+#pitch:hover {
+  background-color: #d0d5dd;
+}
 #books-design {
   padding: 20px 470px;
   font-weight: 500;
@@ -59,6 +74,9 @@ body {
   border-radius: 8px;
   margin-bottom: 20px;
   background-color: #eaecf0;
+}
+#books-design:hover {
+  background-color: #d0d5dd;
 }
 .twitters {
   width: 100%;

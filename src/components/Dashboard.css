@@ -18,6 +18,13 @@ body {
   height: 70px;
   margin: 64px 0px 0px 0px;
 }
+#profile_img:hover {
+  background: linear-gradient(
+    0deg,
+    rgba(52, 64, 84, 0.75),
+    rgba(52, 64, 84, 0.75)
+  );
+}
 #twitter {
   text-decoration: none;
   color: #101828;
